@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 7359517840525447940}
   - component: {fileID: 6404816095501802820}
   m_Layer: 0
-  m_Name: ruby
+  m_Name: ruby Copy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -116,4 +116,4 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 4
+  m_Constraints: 0
